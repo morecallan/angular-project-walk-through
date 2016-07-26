@@ -20,3 +20,4 @@ Build a new application to keep track of movies that you have seen, and want to 
    1. A boolean value that, if true, means that you have watched the movie
 1. It must be written with Angular
 1. For the layout, we suggest Bootstrap
+# angular-project-walk-through-2
